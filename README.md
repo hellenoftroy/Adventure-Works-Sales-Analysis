@@ -1,7 +1,7 @@
 # AdventureWorks Sales Analysis – Business Intelligence Project
 
 This project presents a complete sales performance analysis using the AdventureWorks dataset, built entirely in Microsoft Excel using Pivot Tables, Power Query, and interactive dashboard elements.A fully interactive dashboard was built to explore revenue, profitability, customer behavior, sales territories, and time-based performance.
-______________________________________________________________________________________________________________________________________________
+___________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 # Project Objective
 
@@ -12,6 +12,8 @@ The objective of this project is to perform an end-to-end Business Intelligence 
 •	Compares results across countries and sales territories
 •	Supports decision-making through clean KPIs and visual storytelling
 •	Demonstrates strong skills in data modeling, DAX, and dashboard creation
+
+__________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 # Dataset Description
 
@@ -30,7 +32,7 @@ Dimension Tables
 •	DimSalesTerritory – sales regions
 •	DimDate – complete date hierarchy
 This dataset includes thousands of sales records from multiple years.
-________________________________________
+__________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 # Business Questions & KPIs
 
 Primary KPIs
@@ -40,6 +42,7 @@ Primary KPIs
 •	📈 Total Profit
 •	📊 Profit Margin %
 •	🔄 Number of Transactions
+
 Analytical Questions
 1.	How do revenue and profit change over years?
 2.	Which months and quarters generate the highest profit?
@@ -47,7 +50,7 @@ Analytical Questions
 4.	What is the regional sales performance across countries?
 5.	Which time periods make up the majority of the annual profit?
 6.	What is the seasonal buying behavior of customers?
-__________________________________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 # Process / Methodology
 
@@ -95,21 +98,26 @@ The final dashboard includes:
 __________________________________________________________________________________________________________________________________________________
 
 # Key Insights
+
 ⭐ Overall Performance
 •	Total Revenue: ~$307M
 •	Total Profit: ~$126M
 •	Profit Margin: ~41%
 This shows a strong and efficient profitability model.
+
 ⭐ Yearly Trends
 •	2007 is the best-performing year in revenue & profit.
 •	Slight decline in 2008, indicating market changes.
+
 ⭐ Seasonal Trends
 •	Highest monthly profit occurs in March–June, peaking in May.
 •	Q2 is the strongest quarter with 30.9% of total profit.
 •	Q3 is the weakest, indicating seasonal slowdown.
+
 ⭐ Weekday Analysis
 •	Friday, Sunday, Monday show the highest profit.
 •	Weekend buying contributes 44.1% of total profit.
+
 ⭐ Country/Territory Insights
 Top-performing regions include:
 •	United States
