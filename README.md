@@ -1,4 +1,4 @@
-#AdventureWorks Sales Analysis – Business Intelligence Project
+# AdventureWorks Sales Analysis – Business Intelligence Project
 
 This project presents a complete sales performance analysis using the AdventureWorks dataset.
 A fully interactive dashboard was built to explore revenue, profitability, customer behavior, sales territories, and time-based performance.
@@ -19,7 +19,7 @@ Supports decision-making through clean KPIs and visual storytelling
 
 Demonstrates strong skills in data modeling, DAX, and dashboard creation
 
-#Dataset Description
+# Dataset Description
 
 The project uses the AdventureWorksDW sample dataset, containing both fact and dimension tables:
 
